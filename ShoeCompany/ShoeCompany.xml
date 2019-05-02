@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShoeCompany</name>
+    </assembly>
+    <members>
+        <member name="M:ShoeCompany.Controllers.InventoryController.Get">
+            <summary>
+            Retrieve the entire product inventory for the company.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ShoeCompany.Controllers.InventoryController.Get(System.Int32)">
+            <summary>
+            Retrieve the number in stock for the specified product 
+            </summary>
+        </member>
+        <member name="M:ShoeCompany.Controllers.ProductsController.Get">
+            <summary>
+            Retrieve the details of every product sold 
+            </summary>
+        </member>
+        <member name="M:ShoeCompany.Controllers.ProductsController.Get(System.Int32)">
+            <summary>
+            Find the details of the specified product
+            </summary>
+        </member>
+    </members>
+</doc>
