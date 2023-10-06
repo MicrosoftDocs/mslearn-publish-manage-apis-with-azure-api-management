@@ -5,7 +5,7 @@
     </assembly>
     <members>
         <member name="M:ShoeCompany.Controllers.InventoryController.Get">
-            <summary>
+            <summary> 
             Retrieve the entire product inventory for the company.
             </summary>
             <returns></returns>
